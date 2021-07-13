@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "sources": [
+        "webpack://webpack-one/./src/index.css"
+    ],
+    "names": [],
+    "mappings": "AAAA;IACI,8BAA8B;AAClC;AACA;IACI,+BAAqC;AACzC",
+    "file": "daniel.14526b9c9e7430485f2b.css",
+    "sourcesContent": [
+        "body{\r\n    background: rgba(255, 0, 0, 0);\r\n}\r\ndiv{\r\n    background-image: url('./windwo.jpg');\r\n}"
+    ],
+    "sourceRoot": ""
+}
